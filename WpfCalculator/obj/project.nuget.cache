@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SrpO+nRXezS8rdqsIy5o/Yr/Bp4pjjpd9uWieyNi3EaX9wl0+HKjLtPjyZwEAV/WSNUcMG3qCCPv0ADk8Jmqmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anaxc\\source\\repos\\WpfCalculator\\WpfCalculator\\WpfCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anaxc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
